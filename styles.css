@@ -1,4 +1,4 @@
-.container {
+.container-fluid {
     display: grid;
     grid-template-columns: repeat(2, minmax(150px, 1fr));
     grid-template-rows: 2fr 2fr 2fr 100px;
