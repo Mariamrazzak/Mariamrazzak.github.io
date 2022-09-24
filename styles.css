@@ -4,7 +4,6 @@
     grid-template-rows: 2fr 2fr 2fr 100px;
     grid-gap: 1em;
     padding: 1em;
-    background-color: rose;
     font-style: italic;
 }
 
