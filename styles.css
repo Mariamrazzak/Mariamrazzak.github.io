@@ -50,13 +50,13 @@
 
 h1 {
     text-align: center;
-    font-size: 2em;
+    font-size: 5em;
     color: goldenrod;
 }
 
 h2 {
     text-align: center;
-    font-size: 2em;
+    font-size: 5em;
     color: purple;
 }
 
@@ -66,7 +66,7 @@ li {
 
 p {
     text-align: left;
-    margin: 2px;
+    margin: 5px;
 }
 
 #headshot {
@@ -92,9 +92,9 @@ p {
 .bioBoxProject {
     border: 1px purple;
     padding: 1em;
-    box-shadow: 5px 5px gold;
+    box-shadow: 3px 3px gold;
     display: grid;
-    grid-template-rows: auto auto 250px;
+    grid-template-rows: auto auto 150px;
 }
 
 .imgContainer {
