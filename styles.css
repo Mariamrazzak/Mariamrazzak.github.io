@@ -11,7 +11,7 @@
 .bioBox {
     border: 1px palevioletred;
     padding: 1em;
-    box-shadow: 7px 3px #888888;
+    box-shadow: 7px 7px #888888;
     font-style: "Cursive";
 }
 
@@ -71,7 +71,7 @@ p {
 
 #headshot {
     height:auto;
-    max-width: 100%;
+    max-width: 200%;
 }
 
 .projectsContainer {
@@ -92,9 +92,9 @@ p {
 .bioBoxProject {
     border: 1px purple;
     padding: 1em;
-    box-shadow: 3px 3px gold;
+    box-shadow: 5px 5px gold;
     display: grid;
-    grid-template-rows: auto auto 150px;
+    grid-template-rows: auto auto 250px;
 }
 
 .imgContainer {
