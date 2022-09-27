@@ -1,14 +1,20 @@
-Mariam Razzak's Portfolio:
+**Mariam Razzak's Portfolio:**
+
 Showcase of coding excercises and personal profile during the professional certificate process as Full Stack Developer with MERN stack at MIT xPRO Program.
 
-How to Run:
+**How to Run:**
 
 *Download the repository files
 *Open index.html
 
+**Roadmap of future improvements:**
 
+*Add animation
 
-License information: 👨‍⚖️
+*Add more Projects
+
+**License information**:
+
 MIT License
 
 
